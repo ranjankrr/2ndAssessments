@@ -1,0 +1,105 @@
+{
+  "Employee": [
+    {
+      "name": "david",
+      "email": "d12@gmail.com",
+      "phone": "34534562",
+      "state": "Delhi",
+      "department": "Technical",
+      "language": "English",
+      "id": "h51eB9f"
+    },
+    {
+      "name": "Ranjan",
+      "email": "rk12@gmail.com",
+      "phone": "3254654767",
+      "state": "Delhi",
+      "department": "Technical",
+      "language": [
+        "Hindi",
+        "English"
+      ],
+      "id": "2QV6rkt"
+    },
+    {
+      "name": "Panjkaj",
+      "email": "py32@gmail.com",
+      "phone": "987876321",
+      "state": "Uttar Pradesh",
+      "department": "Marketing",
+      "language": [
+        "Hindi"
+      ],
+      "id": "FB0ci4P"
+    },
+    {
+      "name": "warner",
+      "email": "wrr12@gmail.com",
+      "phone": "3454365476",
+      "state": "Maharastra",
+      "department": "Finance",
+      "language": [
+        "English"
+      ],
+      "id": "P4ug7M2"
+    },
+    {
+      "name": "Amit Kr",
+      "email": "ami21@gmail.com",
+      "phone": "56576787698",
+      "state": "Karnatka",
+      "department": "HR",
+      "language": [
+        "Hindi",
+        "English"
+      ],
+      "id": "HxiuQi3"
+    },
+    {
+      "name": "jon david",
+      "email": "jon23@gamil.com",
+      "phone": "565980809",
+      "state": "Maharastra",
+      "department": "Marketing",
+      "language": [
+        "English"
+      ],
+      "id": "WAeTptG"
+    },
+    {
+      "name": "Rishabh jadhav",
+      "email": "jad45@gmail.com",
+      "phone": "3546576768",
+      "state": "Delhi",
+      "department": "Technical",
+      "language": [
+        "Hindi",
+        "English"
+      ],
+      "id": "PIInCwv"
+    },
+    {
+      "name": "ytuwer",
+      "email": "ert@ftrytu.co",
+      "phone": "32534657",
+      "state": "Uttar Pradesh",
+      "department": "Technical",
+      "language": [
+        "Hindi",
+        "Panjabi"
+      ],
+      "id": "edo5IyM"
+    },
+    {
+      "name": "krishana",
+      "email": "kri34@gaml.com",
+      "phone": "91233543644",
+      "state": "Uttar Pradesh",
+      "department": "Marketing",
+      "language": [
+        "English"
+      ],
+      "id": "uJDh8n4"
+    }
+  ]
+}
